@@ -1,0 +1,6 @@
+a= int(input("enter your number 1:"))
+b= int(input("enter your number 2:"))
+c= int(input("enter your number 3:"))
+print("Number a is :", a)
+print("Number b is :", b)
+print(a+b)
